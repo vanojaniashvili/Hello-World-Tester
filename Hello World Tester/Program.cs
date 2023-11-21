@@ -7,6 +7,8 @@
             Console.WriteLine("Hello, World!");
             Console.Write("Hello 2");
             Console.WriteLine("Hello 3")
+            Console.WriteLine("my name")
+                Console.WriteLine("your name")
 
         }
     }
